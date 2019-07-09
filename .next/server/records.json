@@ -1,0 +1,35 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "multi private-next-pages/_app.js": 0,
+      "multi private-next-pages/_document.js": 1,
+      "multi private-next-pages/index.js": 2,
+      "multi private-next-pages/feed/[subreddits].js": 3,
+      "multi next/dist/pages/_error": 4
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4
+    }
+  },
+  "chunks": {
+    "byName": {
+      "static/569LvcXrEeBNXpyA5sUnb/pages/_app.js": 0,
+      "static/569LvcXrEeBNXpyA5sUnb/pages/_document.js": 1,
+      "static/569LvcXrEeBNXpyA5sUnb/pages/_error.js": 2,
+      "static/569LvcXrEeBNXpyA5sUnb/pages/feed/[subreddits].js": 3,
+      "static/569LvcXrEeBNXpyA5sUnb/pages/index.js": 4
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  }
+}
