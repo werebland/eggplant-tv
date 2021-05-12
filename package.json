@@ -17,7 +17,7 @@
     "react-no-ssr": "^1.1.0",
     "styled-components": "^4.0.0",
     "styled-system": "^5.0.12",
-    "swiper": "^4.5.0"
+    "swiper": "^6.5.1"
   },
   "devDependencies": {
     "babel-plugin-styled-components": "^1.8.0"
